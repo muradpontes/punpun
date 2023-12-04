@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":685.1999999999999,"scrollY":469.2},
+{"id":2,"expanded":true,"name":"tela preta","order":2,"parentId":1,"scrollX":571,"scrollY":391},
+{"id":3,"expanded":true,"name":"sala de aula","order":3,"parentId":2,"scrollX":579,"scrollY":427},
+{"id":4,"expanded":true,"name":"sala de aula2","order":4,"parentId":3,"scrollX":685.1999999999999,"scrollY":469.2},
+{"id":5,"expanded":true,"name":"beco","order":5,"parentId":4,"scrollX":694.8,"scrollY":682.8},
+{"id":6,"expanded":true,"name":"ruazinha","order":6,"parentId":4,"scrollX":685.1999999999999,"scrollY":469.2},
+{"id":7,"expanded":true,"name":"tela preta2","order":9,"parentId":2,"scrollX":685.1999999999999,"scrollY":469.2},
+{"id":8,"expanded":true,"name":"quarto","order":10,"parentId":7,"scrollX":380.6666666666667,"scrollY":255.33333333333334},
+{"id":9,"expanded":true,"name":"telescopio","order":11,"parentId":8,"scrollX":571,"scrollY":391},
+{"id":10,"expanded":false,"name":"ceu","order":12,"parentId":9,"scrollX":571,"scrollY":391},
+{"id":11,"expanded":true,"name":"telescopio2","order":13,"parentId":9,"scrollX":571,"scrollY":391},
+{"id":12,"expanded":true,"name":"tela preta3","order":14,"parentId":11,"scrollX":761.3333333333334,"scrollY":521.3333333333334},
+{"id":13,"expanded":true,"name":"quarto2","order":15,"parentId":12,"scrollX":380.6666666666667,"scrollY":255.33333333333334},
+{"id":14,"expanded":true,"name":"tela preta4","order":16,"parentId":12,"scrollX":685.1999999999999,"scrollY":469.2},
+{"id":15,"expanded":true,"name":"sala de aula3","order":7,"parentId":6,"scrollX":685.1999999999999,"scrollY":682.8},
+{"id":16,"expanded":true,"name":"beco2","order":8,"parentId":15,"scrollX":694.8,"scrollY":682.8}
+]
